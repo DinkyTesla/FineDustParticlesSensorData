@@ -5,9 +5,24 @@ This is a small app for logging data readings from SDS011 / Nova Fitness sensor 
 The app reads the timestamp and the values and logs them in a .txt file.
 The information is taken from a given sensor using REST API Call.
 
-#Curiosity
-The PM10 and PM2.5 particles are a big issue in metropolitan areas and become harmful above given levels for
-prolonged periods of time. When inhaled may get into the lungs and even into the bloodsream.
+#DidYouKnow
+The SDS011 uses the principle of laser scattering to detect particles between 0.3 and 10 µm in the air.
+The PM10 (between 10µm and 2.5µm in diameter) and PM2.5 (2.5µm and less in diameter) particles are a 
+big issue in metropolitan areas and become harmful above given levels for prolonged periods of time.
+When inhaled may get into the lungs and even into the bloodsream and cause concern for human health.
+
+#StepsItTookToGetHere
+1. I was curious what are those sensors and how they work and what they measure.
+2. Had to understand what PM10 and PM2.5 stans for.
+3. Then I had to find out the ID of the given sensor and how to acces its API.
+4. Next I had to see the JSON it gives me to know what I need to filter.
+5. Had to read alot about all the libraries and methods I was going to use.
+6. After I decided I have gathered enough knowedge began the planning stage which took 
+	place mainly in my head and several hand-drawn diagrams.
+7. Then came the coding part which quickly began to return data. The biggest brainstorm
+	was over mapping the objects data as I lack experience. I knew this is something 
+	I am going to see everyday from now on so kept pushing myself until the breaktrough.
+8. Finally refactoring was something that took almost as much time as the initial coding.
 
 #Resources
 Documentation about the sensor API can be found here: https://github.com/opendata-stuttgart/meta/wiki/APIs 

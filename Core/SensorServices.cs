@@ -63,6 +63,7 @@ namespace FineDustParticlesSensorData.Core
             else
             {
                 Console.WriteLine(response.ErrorMessage);
+                File.AppendAllText(path, response.ErrorMessage.ToString() + "\n");
                 return response.ErrorMessage.ToString();
             }
         }
