@@ -1,5 +1,4 @@
-﻿
-namespace FineDustParticlesSensorData.Core
+﻿namespace FineDustParticlesSensorData.Core
 {
     public class Engine
     {

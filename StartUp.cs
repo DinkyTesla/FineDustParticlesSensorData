@@ -1,5 +1,4 @@
-﻿
-using FineDustParticlesSensorData.Core;
+﻿using FineDustParticlesSensorData.Core;
 
 namespace FineDustParticlesSensorData
 {
@@ -10,7 +9,6 @@ namespace FineDustParticlesSensorData
             Engine engine = new Engine();
 
             engine.Run();
-            //SensorServices.GetSensorData();
         }
     }
 }
