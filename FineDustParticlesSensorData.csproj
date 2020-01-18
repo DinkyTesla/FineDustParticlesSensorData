@@ -4,7 +4,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <ApplicationIcon />
-    <StartupObject>FineDustParticlesSensorData.Program</StartupObject>
+    <StartupObject>FineDustParticlesSensorData.StartUp</StartupObject>
     <NoWin32Manifest>true</NoWin32Manifest>
   </PropertyGroup>
 

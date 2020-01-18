@@ -25,7 +25,7 @@ namespace FineDustParticlesSensorData
             //Should be moved
             var response = client.Execute<List<ResponseData>>(new RestRequest());
 
-            //Logging including workaround when there is only one reading or none. Not tested.
+            //Logging including workaround when there is only one reading or none. Not tested as it depends on the sensor readings.
             //This is skipping the last reading and it takes the one before it
             if (response.IsSuccessful && response.Data.Count > 1)
             {
