@@ -1,0 +1,3 @@
+C:\Users\AlienwareX51\Desktop\SAPHomework\FineDustParticlesSensorData\FineDustParticlesSensorData\obj\Release\netcoreapp2.1\FineDustParticlesSensorData.csproj.CoreCompileInputs.cache
+C:\Users\AlienwareX51\Desktop\SAPHomework\FineDustParticlesSensorData\FineDustParticlesSensorData\obj\Release\netcoreapp2.1\FineDustParticlesSensorData.AssemblyInfoInputs.cache
+C:\Users\AlienwareX51\Desktop\SAPHomework\FineDustParticlesSensorData\FineDustParticlesSensorData\obj\Release\netcoreapp2.1\FineDustParticlesSensorData.AssemblyInfo.cs
