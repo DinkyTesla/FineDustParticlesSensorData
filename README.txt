@@ -28,10 +28,13 @@ When inhaled may get into the lungs and even into the bloodsream and cause conce
 Documentation about the sensor API can be found here: https://github.com/opendata-stuttgart/meta/wiki/APIs 
 and the particular sensor URI is: https://data.sensor.community/airrohr/v1/sensor/10001/
 For the REST call I chose to use RestSharp: https://github.com/restsharp/RestSharp
+Some of my homeworks from SoftUni.
+And of course Google :)
 
 #NB
 1. I have found that sometimes the sensor skips several measurements and the data could be insufficient 
-or not be retvieved at all. The issue is sporadic the implemented fix was not tested and is subject
+or not be retvieved at all. The issue is sporadic the implemented fix was not fully tested and is subject
 of future refactoring.
-2. I know about Test Driven Development but I am lacking the experience and as time has progressed 
-Unit Testing is to be implemented.
+2. The timestamp from the sensor reading differs from the current time. Could be the sensor internal Time.
+3. I know about Test Driven Development but I am lacking the experience and time. 
+4. Unit Tests are to be implemented.
