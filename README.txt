@@ -26,7 +26,7 @@ When inhaled may get into the lungs and even into the bloodsream and cause conce
 
 #Resources
 Documentation about the sensor API can be found here: https://github.com/opendata-stuttgart/meta/wiki/APIs 
-and the particular sensor URI is: https://data.sensor.community/airrohr/v1/sensor/10001/
+and the particular sensor URI is: https://data.sensor.community/airrohr/v1/sensor/6344/
 For the REST call I chose to use RestSharp: https://github.com/restsharp/RestSharp
 Some of my homeworks from SoftUni.
 And of course Google :)

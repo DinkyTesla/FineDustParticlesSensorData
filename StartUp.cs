@@ -6,6 +6,7 @@ namespace FineDustParticlesSensorData
     {
         public static void Main()
         {
+            //Get the engine running.
             Engine engine = new Engine();
 
             engine.Run();

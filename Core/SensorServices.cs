@@ -8,6 +8,7 @@ using FineDustParticlesSensorData.Data.Models;
 
 namespace FineDustParticlesSensorData.Core
 {
+    //Here we fetch te data.
     public class SensorServices
     {
         private string URI;

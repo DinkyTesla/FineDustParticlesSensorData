@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace FineDustParticlesSensorData.Data.Models
 {
+    //Object for fetching the call.
     class ResponseData 
     {
         [JsonProperty(PropertyName = "timestamp")]

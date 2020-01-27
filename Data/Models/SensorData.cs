@@ -2,6 +2,7 @@
 
 namespace FineDustParticlesSensorData.Data.Models
 {
+    //The object for the task data.
     class SensorData 
     {
         [JsonProperty(PropertyName = "value")]
