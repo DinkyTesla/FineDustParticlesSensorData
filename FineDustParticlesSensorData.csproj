@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="RestClient" Version="2.5.0.6" />
-    <PackageReference Include="RestSharp" Version="106.10.1" />
+    <PackageReference Include="RestSharp" Version="106.12.0" />
   </ItemGroup>
 
 </Project>
